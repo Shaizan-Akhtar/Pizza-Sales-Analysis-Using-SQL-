@@ -1,9 +1,10 @@
 # SQL Developer Summary: Pizza Sales Analysis Project
+
 In the Pizza Sales Analysis project, I utilized a comprehensive array of SQL concepts to derive meaningful insights and demonstrate expertise in database querying and analysis. Here's a structured summary of my skillset as showcased in this project:
 
 **Core Querying Skills:**
-    SELECT Statement: Extracted relevant columns and data points for targeted analysis.
-    WHERE Clause: Filtered data based on specific criteria to focus on relevant subsets.
+SELECT Statement: Extracted relevant columns and data points for targeted analysis.
+WHERE Clause: Filtered data based on specific criteria to focus on relevant subsets.
     
 **Data Aggregation and Summarization:**
     Aggregate Functions: Leveraged functions like SUM, AVG, COUNT, and MAX/MIN to calculate total sales, average revenue, and other key metrics.
